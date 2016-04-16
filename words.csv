@@ -1,0 +1,183 @@
+id,en,ja
+title,Knowledge of earthquake,地震への心構え
+lang,en,ja
+langName,English,日本語
+description,"Knowledge of earthquake from Fire and Disaster Management Agency of Japan","地震対策資料　消防庁防災マニュアルより抜粋です"
+selectLanguageTitle,Language,言語を選ぶ
+aboutTitle,About,サイトについて
+introductionTitle,Introduction,はじめに
+indoorTitle,Indoor case,室内の場合
+outdoorTitle,Outdoor case,屋外の場合
+vehicleTitle,Vehicle case,乗物の場合
+afterTitle,After shaking,揺れがおさまったら
+documentsTitle,Documents,資料
+about.text1,"Please look at this site when an earthquake occurs in Japan.",万が一、日本で地震に遭遇した場合、こちらのサイトを参考にしてください。
+about.text2,"This site is made for tourist who came from out of Japan. ",このサイトは、日本の外から来た観光客のために作られています。
+about.text3,"If you want to add other language version or edit some words, please edit this spreadsheet and wait.",もし、他の言語バージョンを追加したり、いくつかの単語を編集したい場合は、このスプレッドシートを編集してお待ちください。
+about.text4,"I'll check it and rebuild this site on the couple of days.",シートを随時チェックし、数日内に更新します。
+about.text5,"This site is a partial copy of the Japanese Emergency manual.",このサイトは、日本の消防庁の防災マニュアルの部分的なコピーです。
+introduction.text1,"When an earthquake strikes, it is extremely important to take appropriate action without panicking. This is the only sure way to minimize the damage.",地震が発生したとき、被害を最小限におさえるには、一人ひとりがあわてずに適切な行動をすることが極めて重要です。
+introduction.text2,"To achieve this, it is essential that we understand the danger of earthquakes and prepare properly in our daily lives. Knowledge and preparation will help us to act calmly when disaster strikes.",そのためには、みなさんが地震について関心を持ち、 いざというときに落ちついて行動できるよう、日頃から地震の際の正しい心構えを身につけておくことが大切です。
+indoor.subtitle1,Basic points at home,自宅での基本的事項
+indoor.text1,"Get under a stable desk or table and hold onto its legs tightly.Protect your head with a cushion or the like and stay put until the tremors stop.",丈夫な机やテーブルなどの下にもぐり、机などの脚をしっかりと握りましょう。また、頭を座布団などで保護して、揺れが収まるのを待ちましょう。
+indoor.list1_1,"If a big tremor strikes suddenly, remember to secure your own safety first.",突然大きな揺れに襲われたときは、まずは自分の身を安全に守れるように心がけましょう。
+indoor.list1_2,Open doors and secure exit and entry routes.,戸を開けて、出入り口の確保をしましょう。
+indoor.list1_3,"Shelves and items placed on shelves (TV sets, etc.) may fall. Stay clear of shelves until the tremors stop.",棚や棚に乗せてあるもの、テレビなどが落ちてきたりするので、離れて揺れが収まるのを待ちましょう。
+indoor.list1_4,Try not to flee from the building in a wild panic.,あわてて戸外に飛び出さないようにしましょう。
+indoor.subtitle2,When sleeping in a bedroom,寝ているとき
+indoor.text2,"If a tremor wakes you, secure your safety by getting under your bedding or bed, if possible.",揺れで目覚めたら寝具にもぐりこむかベッドの下に入れる場合はベッドの下に入り、身の安全を確保しましょう。
+indoor.list2_1,Beware of broken glass from windows or light bulbs in the dark.,暗闇では、割れた窓ガラスや照明器具の破片でけがをしやすいので注意をしましょう。
+indoor.list2_2,"To prepare for a sudden evacuation, keep a pair of thick socks, slippers, flashlight, and mobile radio next to your bed or futon.",枕元には、厚手の靴下やスリッパ、懐中電灯、携帯ラジオなどを置いておき、避難が出来る準備をしておきましょう。
+indoor.list2_3,Never put anything that can easily fall or topple over in your bedroom. Make sure that nothing can fall on you while you asleep.,寝室には、倒れそうなもの等をおかないようにし、頭の上にものが落ちてこない所に寝ましょう。
+indoor.subtitle3,When in a bathroom,トイレ・お風呂
+indoor.text3,"If you feel a tremor, open the door immediately to secure your exit route, then wait until the tremors stop.　",揺れを感じたらまずドアを開け、避難路を確保し揺れが収まるのを待ちましょう。
+indoor.list3_1,"Tiles or mirrors may fall in a bathroom, or a water tank may topple from the toilet.",風呂場ではタイルや鏡、トイレでは水洗用のタンクなどが落ちてくることがありますので注意しましょう。
+indoor.list3_2,"Beware of injuries from broken mirrors or glass, if the tremors strike while you’re bathing.",入浴中は鏡やガラスの破損によるけがに注意しましょう。
+indoor.list3_3,"If in the bathtub, protect your head by covering yourself with the bathtub lid, or whatever else is available.",浴槽の中では、風呂のふたなどをかぶり、頭部を守りましょう。
+indoor.list3_4,"Put on only essential clothing, (deletion) wait until the tremors stop, and evacuate.",揺れが収まるのを待って避難しましょう。
+indoor.subtitle4,When in the kitchen,台所
+indoor.text4,Get under a table or the like and wait until the tremors stop.,まずは、テーブルなどの下に身を伏せ、揺れが収まるのを待ちましょう。
+indoor.list4_1,"If you rush to turn off a gas flame, falling pots and pans may scald you. Wait until the tremors stop before turning off the flame.",無理して火を消しに行くと調理器具が落ちてきてやけどなどをしたりするので、揺れが収まるまで待ちましょう。
+indoor.list4_2,"Watch out for cupboards or refrigerators. These can fall on you, or contents can fly out from them.",食器棚や冷蔵庫が倒れてくるだけでなく、中身が飛び出してくることもあるので注意しましょう。
+indoor.list4_3,"If near cooker, move away in case pots or pans slip and fall. Wait until the tremors stop and then carefully turn off the flame.",コンロの近くの場合、調理器具が滑り落ちてくる場合があるので、コンロの近くから離れ、揺れが収まったら落ち着いて火を消しましょう。
+indoor.list4_4,Most households are equipped with gas leakage breakers (gas micron meters) that sense tremors and stop the gas supply automatically. Be sure to understand these devices and use them properly.,揺れを感じて自動的にガスの供給を停止するガス漏れ遮断器（ガスマイコンメーター）がほとんどのご家庭に設置されています。特性や使い方を十分に理解しておきましょう。
+indoor.subtitle5,Condominiums,マンション
+indoor.text5,Note that tremors are more intense on the upper floors than on the ground level.,高層階では、地表より揺れが大きくなることがあるので注意しましょう。
+indoor.list5_1,The risk of collapse is low. (delete) Get under a stable desk or the like and wait until the tremors stop.,丈夫な机などの下に身を隠し、揺れが収まるのを待ちましょう。
+indoor.list5_2,"There may be a small delay before you feel the tremors on the upper floors. Once they start, however, they tend to last longer at a wider amplitude.",高層階での地震は、揺れ始めは遅く、揺れ出すと長く揺れ、揺れ幅も大きくなる傾向があります。
+indoor.list5_3,Check the locations of the emergency exits on a regular basis.,日頃から非常口の確認をしておきましょう。
+indoor.subtitle6,Offices,職場
+indoor.text6,"Move away from cabinets, shelves, lockers, and copying machines in the office. Cover your head and get under a desk or the like to protect yourself.",職場ではキャビネットや棚、ロッカー、コピー機などから離れ、頭部を守り、机の下に隠れるなど身を守りましょう。
+indoor.list6_1,Move away from the windows. Window glass may break during the tremor.,窓ガラスが割れることがあるので、窓際から離れましょう。
+indoor.list6_2,Watch out for falling office equipment.,ＯＡ機器などの落下に注意しましょう。
+indoor.list6_3,"Try to improve your working environment on a daily basis by organizing, tidying up, and so on. ",常日頃から整理整頓をするなど職場環境をよくしておきましょう。
+indoor.list6_4,"When evacuating the building, watch out for falling objects and never try to use an elevator.",外へ逃げるときは落下物などに注意し、エレベーターは使わないようにしましょう。
+indoor.subtitle7,Supermarkets・Department stores,スーパー・デパート
+indoor.text7,Protect your head with a bag or shopping basket and move away from showcases or high shelves stocked with items that may fall.,バックや買い物かごなどで頭を保護し、ショーケースなど倒れやすいものから離れましょう。
+indoor.list7_1,"Find shelter in an elevator hall, or anywhere else uncluttered with merchandize and near a supporting pillar column.",エレベーターホールや比較的商品の少ない場所、柱付近に身を寄せましょう。
+indoor.list7_2,"Watch out for falling glassware, ceramic ware, and other items on display shelves.",ガラス製品や瀬戸物、その他、陳列棚の商品などの落下・転倒に注意しましょう。
+indoor.list7_3,Do not just rush to the exit. Follow the instructions of the staff.,慌てて出口に殺到せず、係員の指示に従いましょう。
+indoor.list7_4,"Do not attempt to evacuate on an elevator, even if it seems to be working.",エレベーターが動いていたとしても、エレベーターによる避難はしないようにしましょう。
+indoor.subtitle8,Movie theaters・Theaters,映画館・劇場
+indoor.text8,Protect your head using a bag or the like and find shelter between the seats. Stay put until the tremors stop. ,バックなどで頭を保護し、座席の間に身を隠して、揺れが収まるのを待ちましょう。
+indoor.list8_1,"Evacuate to a safe place, watching out for window glass and objects falling from above.",天井からの落下物や窓ガラス等に注意しながら、安全な場所に避難しましょう。
+indoor.list8_2,"Even if the power supply is cut off, evacuation lights or emergency lights will turn on. Follow the instructions of the theater staff without panicking..",停電しても誘導灯や非常灯がつきますので、慌てずに、係員の指示に従いましょう。
+indoor.list8_3,Never rush to the exits or staircases.,慌てて出口や階段に殺到しないようにしましょう
+indoor.list8_4,Check the locations of the emergency exits beforehand.,事前に避難口を確認しておきましょう。
+indoor.subtitle9,Underground mall,地下街
+indoor.text9,Protect your head with a bag or the like and try not to panic. Stay put until the tremors stop. ,慌てずに、バックなどで頭を保護し揺れが収まるのを待ちましょう。
+indoor.list9_1,"If the power supply cuts off, wait until the emergency lights turn on. Do not move without good reason.",停電になっても、非常照明がつくまでむやみに動かないようにしましょう。
+indoor.list9_2,Emergency exits are located at 60m intervals in underground malls. Be calm and proceed through the exit up to the ground level. Never rush to an emergency exit congested with people. ,地下街では６０メートルごとに非常口が設置されているので、一つの非常口に殺到せずに地上に落ち着いて脱出しましょう。
+indoor.list9_3,"When evacuating, walk alongside the walls.",脱出するときは、壁づたいに歩いて避難しましょう。
+indoor.list9_4,"You will be safe as long as there is no fire. Act calmly, without panicking.",火災が発生しなければ比較的安全なので、慌てずに行動しましょう。
+indoor.subtitle10,Schools,学校
+indoor.text10,Get under a desk to protect yourself from falling objects in the classroom. Follow the instructions of the teacher without taking sudden actions (such as fleeing the building in a panic).,教室内では、机の下に潜って落下物などから身を守り、慌てて外に飛び出すなど勝手な行動はせずに、教職員の指示に従いましょう。
+indoor.list10_1,"In corridors, playgrounds, or gymnasiums, get together and squat in the middle of the area.",廊下、運動場、体育館などでは、中央部に集まってしゃがみましょう。
+indoor.list10_2,"In any kind of laboratory, pay attention to chemicals or fire while evacuating.",実験室などで薬品や火気に注意し、避難しましょう。
+indoor.list10_3,The route back home may be dangerous in some cases. Do not return home without asking.,通学路が危険なこともあるので、勝手に帰宅しないようにしましょう。
+indoor.subtitle11,Elevators,エレベーター
+indoor.text11,"The basic rule is to press the buttons for all floors and get off at the first floor where the elevator stops. Be sure, however, never to rush onto a floor with fire or other serious danger.",全ての階のボタンを押し、最初に停止した階でおりるのが原則ですが、停止した階で慌てておりるのではなく、階の状況を見極めるのも大切です。
+indoor.list11_1,Emergency services assume that there will be many people trapped in elevators when an earthquake strikes. You may not be rescued immediately.,地震の時は同様に閉じこめられている人も大勢いると予想されます。救助にすぐに駆けつけてくれるとは限りません。
+indoor.list11_2,"If you are trapped in an elevator, try to remain calm without panicking. Try to make contact with someone using the Emergency Call Button, etc.",エレベーターに閉じこめられても、焦らず冷静になって「非常用呼び出しボタン」等での連絡を取る努力をしましょう。
+outdoor.subtitle1,Residential district,住宅地
+outdoor.text1,"If a strong quake strikes, the streets of residential districts will probably be blocked off with collapsed objects. ",強い揺れに襲われると、住宅地の路上には落下物や倒壊物があふれます。 
+outdoor.list1_1,"Block or stone walls along residential streets may fall during strong quakes. If you feel an earthquake, move away from these walls.",住宅地の路地にあるブロック塀や石塀は、強い揺れで倒れる危険があります。揺れを感じたら塀から離れましょう。
+outdoor.list1_2,"Electric poles and vending machines may also fall over, so move away from them, too.",電柱や自動販売機も倒れてくることがありますので、そばから離れましょう。
+outdoor.list1_3,"Roofing tiles, external air conditioners, and planters on verandas and upper floors may fall. Look out for objects falling from above. ",屋根瓦や二階建て以上の住宅のベランダに置かれているエアコンの室外機、ガーデニング用のプランターなどが落下してくることがあります。頭の上も注意しましょう。
+outdoor.list1_4,"If a strong quake strikes, houses with low earthquake resistance may collapse, filling the road with rubble or window glass. Be vigilant of surrounding conditions if you feel a strong tremor",強い揺れが起きると、耐震性能の低い住宅が倒壊する場合もあります。これにより瓦礫や窓ガラスが道路内に散乱する可能性もありますので、揺れを感じたら周辺の状況に注意しましょう。
+outdoor.subtitle2,Business districts・Downtown,オフィス街・繁華街
+outdoor.text2,"Window glass, outer walls, and signboards may fall from high- and middle-rise buildings downtown or in business districts.",中高層ビルが建ち並ぶオフィス街や繁華街では、窓ガラスや外壁、看板などが落下してくる危険性があります。
+outdoor.list2_1,"If window glass in an office building breaks and falls, it will disperse fast (at a speed of 40 ~ 60 km). Tiles on the outer walls of buildings or signboards attached to outer walls may also fall. Protect your head with your shoes or the like and move as far away from the buildings as possible.",オフィスビルの窓ガラスが割れて落下すると、時速40～60kmで広範囲に拡散します。ビルの外壁や張られているタイル、外壁に取り付けられている看板などが剥がれ落ちることもあります。鞄などで頭を保護し、できるだけ建物から離れましょう。
+outdoor.list2_2,The danger of falling signboards and neon signs is greater in downtown areas than in business districts. Be especially alert if there are strong tremors. ,繁華街では、オフィス街には少ない、店の看板やネオンサインなどの落下・転倒物が加わります。強い揺れに襲われた際には十分注意しましょう。
+outdoor.subtitle3,Seaside,海岸
+outdoor.text3,"The biggest earthquake danger facing you at the seaside is a tidal wave (tsunami). Move to higher ground or an evacuation site immediately, without waiting for instructions or evacuation advice.",海岸で強い揺れに襲われたら、一番恐ろしいのは津波です。避難の指示や勧告を待つことなく、安全な高台や避難地を目指しましょう 。
+outdoor.list3_1,"If there is no higher ground nearby, go into a building with at least four floors and take the stairs up to the 4th floor or above. ",近くに高台がない場合は、３階建て以上の建物を目指し、３階より上に上がります。
+outdoor.list3_2,"Tidal waves attack in series. In some cases, the second and third wave is higher than the first. Never go back to the seaside, even if the waves recede.",津波は繰り返し襲って来て、第一波の後にさらに高い波が来ることもあります。いったん波が引いても絶対に戻ってはいけません。
+outdoor.list3_3,"If there are signs pointing out evacuation routes, use them as a guide for evacuation.",避難標識が整備されている場合には避難する際の目安になります。
+outdoor.list3_4,"If an earthquake strikes while you're bathing in the sea, there may be lifeguards or lifesavers nearby. If so, they will tell you where and how to evacuate the area.",海水浴中の場合は、監視員やライフセーバーがいる海水浴場では指示に従って避難しましょう。
+outdoor.subtitle4,Riverside,川べり
+outdoor.text4,Tidal waves travel up water-filled rivers.,津波は水を湛えている川を遡ります。
+outdoor.list4_1,"If you evacuate upstream along the river, the tidal wave may chase you. You need to evacuate quickly at a right angle to the flow of the river.",流れに沿って上流側へ避難しても津波は追いかけてきます。流れに対して直角方向に素早く避難します。
+outdoor.subtitle5,Mountainous・Hilly districts,山・丘陵地
+outdoor.text5,"Move away from dangerous areas such as steep sloping land, watching out for falling rocks as you proceed.",落石に注意し、急傾斜地など危険な場所から遠ざかりましょう。
+outdoor.list5_1,"If you are struck by a strong tremor while hiking or climbing a mountain, protect yourself from falling rocks first.",登山やハイキングで山にいる時に強い揺れに襲われた場合には、まず落石から身を守りましょう。
+outdoor.list5_2,The ground may loosen and become highly unstable during an earthquake. Be sure to stay away from areas with fallen rocks or steep sloping land.,地震で地盤がゆるみ、崩れやすくなっている可能性がありますので、ガケや急傾斜地など危険な場所には近づかないようにしましょう。
+vehicle.subtitle1,While driving a car,運転中の場合
+vehicle.text1,Unforeseen accidents may result if you try to make a sudden stop.,急ブレーキを踏めば予想外の事故を引き起こすことにつながります。
+vehicle.list1_1,"If you feel a tremor,",揺れを感じたら
+vehicle.list1_2,"1. Never make a sudden stop. Keep firm hold of the steering wheel and gradually slow down, paying attention to the cars in front of you and behind. Pull over to the left side of the road when it is safe to do so.",１: 急ブレーキは禁物です。ハンドルをしっかり握り、前後の車に注意しながら徐々にスピードを落とし、道路の左側に停車します。
+vehicle.list1_3,2. Turn off the engine and stay in your car until the tremors stop. Get information from the car radio.,２: エンジンを切り、揺れがおさまるまでは車外に出ず、カーラジオから情報を入手します。
+vehicle.list1_4,"3. If you need to evacuate the area, take important items, including your car registration. Leave the key in the car and a note with your contact address. Leave the doors unlocked. ",３: 避難の必要がある場合は、車のキーはつけたままにし、ドアをロックしないで、窓を閉めます。
+vehicle.list1_5,4. Vacate the area on foot.,４: 連絡先を見えるところに書き、車検証などの貴重品を持ち、徒歩で避難します。
+vehicle.list1_6,Do not vacate by car. This will block the passage of emergency vehicles.,車での避難は、緊急自動車などの妨げになりますのでやめましょう。
+vehicle.list1_7,"If driving on the highway, observe the following points in addition to the points mentioned for regular roads above.",高速道路では、普通の道路を走行中の対処に加え、以下の点にも留意しましょう。
+vehicle.list1_8,"○When driving at high speed, turn on your hazard lamps to ensure that the cars ahead of you and behind you can see you.",○高速走行しているのでハザードランプを点灯させ、前後の車に注意を喚起します。
+vehicle.list1_9,○Emergency exits are located at about 1 km intervals on highways. You can escape to the ground on foot via one of those exits.,○高速道路では約１kmごとに非常口が設けられており、ここから徒歩で地上に脱出することができます。
+vehicle.subtitle2,Railways,鉄道
+vehicle.text2,Be prepared for an emergency stop. Stay low and keep hold of handrails or straps to avoid injury.,緊急停車に備え、ケガをしないように姿勢を低くしたり、手すりやつり革をしっかり握りましょう。
+vehicle.list2_1,"If a strong tremor is detected, the train will make an emergency stop.",強い揺れを感知すると電車は緊急停車します。
+vehicle.list2_2,"If sitting, keep low and protect your head with a bag or the like. If standing, keep hold of a handrail or strap to avoid falling over.",座席に座っている場合には、低い姿勢をとって頭部を鞄などで保護し、立っている場合には手すりやつり革をしっかり握って転倒しないようにしましょう。
+vehicle.list2_3,"Once the train comes to a halt, follow the instructions of the crew.",停車後は、乗務員の指示に従いましょう。
+vehicle.subtitle3,Shinkansen (Bullet Train),新幹線
+vehicle.text3,The Urgent Earthquake Detection and Alarm System (UrEDAS) stops the train in the event of an emergency. ,新幹線は早期地震検知警戒システム（ユレダス）が作動して緊急停車します。
+vehicle.list3_1,"The Shinkansen runs at a very high speed. If you are sitting on a seat, get down between the seats to prevent yourself being flung forward. If you are standing, keep hold of the handrail to avoid falling.",高速走行している場合が多いので、座席に座っている場合には、前に飛び出さないように座席の間に体を隠し、立っている場合には手すりをしっかり握って転倒しないようにしましょう。
+vehicle.list3_2,"Once the train comes to a halt, follow the instructions of the crew.",停車後は、乗務員の指示に従いましょう。
+vehicle.subtitle4,Subway,地下鉄
+vehicle.text4,"Subway trains will come to an emergency stop when a quake of intensity 5 lower is detected. If the train is between stations, it checks and proceeds to the nearest station at low speed.",震度５弱程度の揺れを観測した場合に運転を停止し、線路途中なら安全を確認し、低速で最寄りの駅に向かいます。
+vehicle.list4_1,The subway travels at a speed of about 40~50 km per hour. ,地下鉄の運行速度は時速40～50km程度です。
+vehicle.list4_2,"If sitting, keep low and protect your head with a bag or the like. If standing, keep hold of a handrail or strap to avoid falling over. ",座席に座っている場合には、低い姿勢をとって頭部を鞄などで保護し、立っている場合には手すりやつり革をしっかり握って転倒しないようにしましょう。
+vehicle.list4_3,"Even if the power supply is cut off, emergency lights will remain on for about 1 hour. This gives you ample time to evacuate calmly. Be sure never to panic. ",停電になっても非常灯が1時間程度は点灯するので、慌てずに行動しましょう。
+vehicle.list4_4,Some subway lines have high-voltage electric wires laid at the sides of the rails. This makes it extremely dangerous to jump onto the tracks. Never attempt to do so without asking. ,地下鉄によっては高圧電線が線路脇に設置されているので、勝手に線路に飛び降りると大変危険です。
+vehicle.list4_5,"Once the train comes to a halt, follow the instructions of the crew.",停車後は、乗務員の指示に従いましょう。
+vehicle.subtitle5,Bus,バス
+vehicle.text5,The bus driver may brake suddenly. Stay low and hold of a handrail or strap to avoid injury.,急ブレーキが踏まれる場合もあります。ケガをしないように姿勢を低くしたり、手すりやつり革をしっかり握りましょう。
+vehicle.list5_1,"If the driver feels a strong quake, he will try to slow down gradually without making a sudden stop. If necessary to avoid danger, however, the driver may be forced to brake suddenly. ",強い揺れを感じた場合に、危険を回避するために急ブレーキが踏まれることもあります。
+vehicle.list5_2,"If sitting, keep low and protect your head with a bag or the like. If standing, keep hold of a handrail or strap to avoid falling over.",座席に座っている場合には、低い姿勢をとって頭部を鞄などで保護し、立っている場合には手すりやつり革をしっかり握って転倒しないようにしましょう。
+vehicle.list5_3,"Once the bus comes to a halt, follow the instructions of the driver.",停車後は、乗務員の指示に従いましょう。
+after.subtitle1,Securing your own safety,身の安全の確保
+after.text1,Check around you first. Secure your own safety.,まずは周囲を確認。身の安全を確保しましょう。
+after.list1_1,"If you act in a panic, you may be injured by toppling furniture or scattered glass.",あわてて行動すると、転倒した家具類、飛び散ったガラスの破片等でケガをする恐れがあります。
+after.list1_2,"When the tremors weaken or stop completely, open a window or door to secure your exit.",小さな揺れの時、又は揺れがおさまった後に、窓や戸を開け、出口を確保しましょう。
+after.subtitle2,Planning your evacuation wisely,避難の判断
+after.text2,"Judge wisely, based on accurate information! Your life may depend on it.",正しい情報に基づいた判断を！　それがあなたの運命を左右します。
+after.list2_1,"False information tends to circulate after a disaster strikes. Try to get your information from TV, the radio, or public offices. Don't be misled by rumors. ",災害が発生したときにはデマが飛び交いがち。噂に惑わされず、テレビ、ラジオ、役場等からの情報に注意し、正しい状況の把握に努めましょう。
+after.list2_2,"When a public office gives any instruction or advice, follow it.",役場から避難の指示・勧告等が出たら、それに従いましょう。
+after.list2_3,"In some cases no instructions or advice will be given. If you have no information but feel danger, evacuate immediately! ",役場からの指示・勧告等がなくても、身の周辺に危険が迫っていると判断した場合は、ためらうことなく避難しましょう！
+after.list2_4,"Fire stations and police stations will probably be fully occupied with first aid and rescue activities. Don't call them to ask about the state of a disaster. This will only disturb their activities. ",消防署、警察等は救急・救助活動等に追われていることが予想されます。災害状況の問い合わせ等はこれらの活動に支障をきたすのでやめましょう。
+after.list2_5,"Too many calls placed just after an earthquake will overwhelm the telephone system. Try to use telephones as little as possible.",地震時に多くの人が電話をかけると、電話がつながりにくい状況になりますので、電話や携帯電話の使用は控えましょう。
+after.subtitle3,"Actions to take when evacuating　・When leaving your house",避難の行動　・家を出るとき
+after.text3,"Check the house around you when evacuating. Unforeseeable accidents can strike. ",避難するときも周囲を確認。思わぬ事故に遭う恐れがあります。
+after.list3_1,"Check carefully around you when leaving. There may be falling glass or signboards.",外に出るときも周囲の確認を。ガラスや看板等が落ちてくる可能性があります。
+after.list3_2,"Turn off the power breaker and close the main gas valve before leaving the house.",避難する時には、電気のブレーカーを切り、ガスの元栓を閉めましょう。
+after.list3_3,"After checking the safety of your own house, call on the neighbors to check up on them. ",我が家の安全を確認後、近所にも声をかけて安否を確認しましょう。
+after.subtitle4,"Actions to take when evacuating　・When a fire breaks out","避難の行動　・火災に遭遇した場合"
+after.text4,"The smoke from fires often kills. Act calmly when leaving the scene of the fire.",火災では煙が死亡要因の多くを占めています。冷静な避難行動をとりましょう。
+after.list4_1,"Always be prepared for fires. Confirm that your evacuation route is open and usable every day.",日頃から火災が発生した場合に備えて避難ルートを確認しておきましょう。
+after.list4_2,"When you hear a fire alarm, try to find out what's going on and take prompt action.",火災報知設備の警報を聞いたときは、状況を確認するとともに、速やかな行動を心がけましょう。
+after.list4_3,"If a room or corridor fills with smoke, cover your mouth and nose with a handkerchief or towel to avoid inhaling smoke, and evacuate. Try to keep low as you move (smoke rises).",煙が部屋や廊下に充満してきた場合は、ハンカチやタオルなどで口・鼻をしっかり覆い、煙を吸わないよう姿勢を低くして避難しましょう。
+after.subtitle5,"Actions to take when evacuating　・Evacuation method","避難の行動　・避難方法"
+after.text5,"If you use a car for evacuation, it may cause chaos.",避難するときに車を使うと混乱を来す場合があります。
+after.list5_1,"Evacuate on foot, if possible. If you use a car, you may cause traffic jams and hamper firefighting and rescue activities.",避難する時は原則として徒歩で避難しましょう。車を使うと渋滞を引き起こし、消防・救急活動などに支障を来します。
+after.list5_2,"The roads you usually take by foot may be congested and hard to negotiate. Carry your belongings on your back whenever possible to help you walk easily. Wear comfortable clothes in which you can move freely.",普段歩いている道も混乱して、歩きにくくなっている恐れがあります。携帯品は歩きやすいよう背負える範囲のものにとどめ、服装は活動しやすいものにしましょう。
+after.list5_3,"The elementary or junior high school near you is designated as an evacuation area. If further risk is anticipated, you need to evacuate to a wide-area evacuation site. Find out the nearest evacuation areas and wide-area evacuation sites near your home and workplace.",最寄の小・中学校などが避難所に指定されています。また、さらに危険性がある場合は広域避難場所に避難する必要がありますので、身の回りの避難所や広域避難場所を日ごろからチェックしておきましょう。
+after.subtitle6,"If you have difficulty returning home　・Wise judgment when planning your trip home",帰宅困難者　・帰宅の判断
+after.text6,"If you stubbornly decide to return home over a long distance, your decision may lead to secondary disasters in some cases. Try not to move around without good reason.",遠距離を無理に帰宅しようとすると、却って二次災害を引き起こす恐れもあります。 むやみに移動しないようにしましょう。
+after.list6_1,"Chaos and disorder will probably hamper firefighting and other emergency activities. The available roads may be congested or cut off, and people may clamor into the stations. ",通行できる道路が限られ、また駅などには人が押し寄せてパニックが発生する恐れがあり、消防活動などに支障を生じる恐れもあります。
+after.list6_2,"If you are concerned about the safety of your family, try to contact them on a public phone or use NTT's Disaster Message Dial (dial #171) or the disaster message board of your mobile phone service. Once you have confirmed their safety, forcible evacuation is not necessary.",家族の安否が心配な場合は、公衆電話、NTTの災害伝言ダイヤル171、携帯電話の災害伝言板で家族と連絡をとり、安全が確認できたら、無理に避難する必要はありません。
+after.list6_3,Try not to think only about going home. Also think about participating in the rescue activities where you are now.,帰宅することだけを考えるのではなく、状況に応じて、自分がいる地域の救援活動に参加することも考えましょう。
+after.subtitle7,If you have difficulty returning home　・Getting home,帰宅困難者　・帰宅方法
+after.text7,"When an earthquake strikes, you may not be able to use the roads that you usually use. Try to walk the route you might take when a disaster strikes. Check the state of the road.",地震が起きると普段通っている道路も通行困難になります。普段から自分で帰宅ルートを歩くなどして、道路の状況を確認しておきましょう。
+after.list7_1,"Plan out a good route home, in case you have to return home on foot. Try to avoid routes that may be blocked or where chaos is likely to break out.",徒歩で帰宅する場合に備えて、普段から帰宅ルートを確認しておきましょう。災害時に通行止めになったり、混乱が発生する恐れが高いルートは出来るだけ避けましょう。
+after.list7_2,"It's dangerous to walk at night because it's difficult to see where you are going. Think carefully about the time of day when planning your return, especially if your house is far away. ",夜は特に足下が見えにくく危険です。特に自宅まで遠距離の人は時間帯もよく考えて行動しましょう。
+after.list7_3,"School buildings, public facilities, convenience stores, and gas stations are being increasingly used as support facilities for people who have difficulty getting home. Many will provide information when a disaster occurs. Check those facilities as well.",災害時には、情報提供などを行う帰宅困難者支援施設として、学校や公共施設、コンビニエンスストア、ガソリンスタンドなどが指定されるケースが増えてきています。これらの施設も併せて確認しておきましょう。
+after.subtitle8,Rescue・First aid　・Putting out fires just after they break out,救出・救護　・初期消火
+after.text8,"When a strong tremor strikes, secure your safety first and then put out the fire.",強い揺れではまず身の安全を確保してから火を消しましょう。
+after.list8_1,"The first thing to do when a tremor strikes is to get under a desk or the like to protect yourself. If anything catches on fire, try to kill the flames after the tremors stop.",大きな揺れの時は、一度机の下などに身を伏せ、揺れが収まるのを待ってから火を消しましょう。
+after.list8_2,"If a fire breaks out, call out loudly for help while trying to put the fire out with a nearby fire extinguisher.",火災になった場合は、周りの人に大きな声で助けを求めるとともに、手近にある消火器などで初期消火をしましょう。
+after.list8_3,"If you can't extinguish the fire early enough and the fire spreads to the ceiling, secure your own safety and the safety of others in the house, then call the fire department. ",もし初期消火ができず天井まで火が広がってしまったら、自分や他の住人の安全を確保するとともに、消防隊や消防団へ助けを求めてください。
+after.list8_4,"When waiting for the arrival of the fire department, check that the neighbors have evacuated (especially people who need help, such as children or the elderly). Work with neighbors and community disaster-relief organizations to prevent the spread of fire by arranging bucket relays, etc.",消防隊が到着するまで、近所の人たちや自主防災組織の人などと協力して、近隣の住民（特に子供や高齢者などの要援護者）の避難を確認し、バケツリレーなど火災の延焼阻止を試みましょう。
+after.subtitle9,Rescue・First aid　・Evacuation method,救出・救護　・救出活動・救護活動
+after.text9,Cooperation with others nearby is especially important when the fire department can't reach the scene or carry out rescue activities. ,消防による救出活動が困難な場合には、住民たちの協力が必要です。
+after.list9_1,"Larger disasters injure more people and block off more roads. In some cases, the fire department and other emergency services may not be able to reach a disaster scene in time. When that happens, it's crucial to help those around you by providing first aid for minor injuries.",災害が大きくなると、負傷者が多くなり、また道路が通行困難となっているために消防署などによる救出活動が間に合わない場合があります。軽いケガなどの処置は、みんながお互いに協力し合って応急救護をしましょう。
+after.list9_2,"If people are buried in collapsed houses or under fallen objects, check whether they are conscious and encourage them to hang on. Rescue activities are often dangerous. The best way to carry them out is in groups, working in cooperation.",建物の倒壊や落下物などの下敷きになった人がいたら、意識があるかどうかを確認し、励ましましょう。救出活動には危険が伴う場合があります。できるだけ複数で協力して行いましょう。
+documents.list1_1,TOKYO BOSAI Kindle ver.,東京防災 Kindle版

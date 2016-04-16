@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+  <head>
+    <meta charset="utf8" />
+    <link rel="stylesheet" href="en/assets/css/styles.css" />
+  </head>
+
+<style>
+  .org-langs {
+    list-style: none;
+    font-size: 20px;
+    text-align: center;
+  }
+</style>
+  <div class="container">
+    <div class="section-heading scrollpoint sp-effect3">
+      <h1>言語を選ぶ</h1>
+      <div class="divider"></div>
+      <p>使用する言語を選んでください。</p>
+    </div>
+    <div>
+      <ul class="row org-langs">
+        <li class="col-md-2 col-sm-3 col-xs-6"><a href="">日本語</a></li>
+        <li class="col-md-2 col-sm-3 col-xs-6"><a href="">英語</a></li>
+      </ul>
+    </div>
+  </div>
+
+
+
+	
+    <script type="text/javascript">
+    autoDetect()
+
+    function autoDetect () {
+      if (!localStorage) {
+        return // 保存できない場合はリダイレクトしない
+      }
+
+      if (localStorage.getItem('firstRedirect')) {
+        return // 以前リダイレクトしたから今回はリダイレクトしない
+      }
+
+      // 今回のリダイレクトを保存する
+      localStorage.setItem('firstRedirect', true)
+
+      // ブラウザーの言語
+      var lang = getBrowserLanguage()
+
+      // 言語を選ぶ
+      lang = lang.toLowerCase()
+      lang = (lang === 'ja' || lang == 'ja_jp') ? 'ja' : 'en'
+
+      document.location.assign(lang + '/index.html')
+    }
+
+    // クロスブラウザーの言語を調べるスクリプト
+    function getBrowserLanguage () {
+      var nav = navigator
+      return (nav.languages && nav.languages[0])
+        || nav.userLanguage
+        || nav.language
+        || 'en-US' 
+    }
+    </script>
+	</body>
+</html>
